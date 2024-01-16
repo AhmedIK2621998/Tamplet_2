@@ -1,0 +1,5 @@
+navagation:
+
+navbar :
+navbar-fixed-top :it make the navbar fixed during scroll  بيجع شريط المهام ثابتفي الاعلي اثناء التحرك لاعلي ولاسفل
+navbar-fixed-bottom :it make the navbar fixed during scroll but from bottom  بيجع شريط المهام ثابت في الاسفل اثناءالتحرك لاعلي ولاسفل

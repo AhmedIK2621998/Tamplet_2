@@ -1,0 +1,51 @@
+
+/* For Mobile And Tablet  OR Xetra Screen */
+
+@media (max-width: 767px)
+{  
+    .navbar-inverse .navbar-nav > li > a 
+    {
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+    .subscribe .form-control
+    {
+        margin: 15px auto;
+        width: 400px
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height: none;
+    }
+    .option-box .color-option
+    {
+        float: left;
+        background: #333;
+        color: #fff;
+        padding: 4px;
+        text-align: center;
+        width: 64px;
+        border: 2px solid #E41B17;
+        display: none
+    }
+    .option-box .gear-check
+    {
+        padding: 10px;
+    }
+}
+/* Small Screen */
+@media (min-width: 768px)and(max-width: 991px)
+{
+    
+}
+/* Meduim Screen */
+@media (min-width: 992px)and(max-width: 1199px)
+{
+    
+}
+/* Large Screen */
+@media (min-width: 1200px)
+{
+    
+}

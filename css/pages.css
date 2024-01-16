@@ -1,0 +1,80 @@
+/* Start The breadCrumb  */
+.breadcrumb-holder{
+    background: #f5f5ff;
+}
+.breadcrumb{
+    padding: 10px 0;
+    margin: 0
+}
+
+/* End The breadCrumb  */
+
+
+.about-us{
+    padding: 70px 0
+}
+.about-us p{
+    padding: 30px 0
+}
+.about-us h1{
+    font-family: 'Raleway' , 'sans-serif';
+    letter-spacing: -3px;
+    font-size: 100px
+}
+.about-us hr{
+    width: 70%;
+    border: 1px solid rgb(19 4, 192, 190);
+}
+
+.about-features{
+    padding-bottom: 70px
+}
+
+.about-features h1{
+    font-family: 'Raleway' , 'sans-serif';
+    letter-spacing: -1px;
+    font-size: 40px
+}
+.about-features p{
+    margin-bottom: 40px
+}
+.about-eco {
+    background: #EEE;
+    padding-top: 40PX
+}
+.about-eco h2{
+    font-family: 'Raleway' , 'sans-serif';
+    letter-spacing: -1px;
+}
+.about-eco .btn-primary{
+    background: #333;
+    border-color: #333;
+    display: inline-block;
+    margin-bottom: 30px
+}
+/* End The About Intro */
+
+/* Start About Us */
+
+/* Start FAQ Intro */
+
+/* End FAQ Intro */
+.faq{
+    padding : 40px 0; 
+}
+.faq h1{
+    font-family: 'Raleway' , 'sans-serif';
+    letter-spacing: -3px;
+    font-size: 70px
+}
+.faq h1 ~ hr{
+    width: 70%;
+    border:1px solid #333;
+}
+.faq-question .panel-heading a:after{
+    font-family: 'Glyphicons Halfings';
+    content: "\002a";
+    float: right;
+    color: #444;
+}
+/* End About Us */
